@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Mars_Station.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Mars_Station.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DR. Ashraf\\Downloads\\CMPS103-Project\\CMPS103-Project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\RDY_NM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\RDY_NM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\OUT_missions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\OUT_missions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Request\\New_Request.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Request\\New_Request.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Request\\Request.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Request\\Request.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Request\\Abort_Request.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Request\\Abort_Request.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\ADT\\LinkedQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ADT\\LinkedQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\ADT\\priQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ADT\\priQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Mission\\Mission.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Mission\\Mission.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Rovers\\Rover.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Rovers\\Rover.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\ADT\\ArrayStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ADT\\ArrayStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Rovers\\polar_Rovers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Rovers\\polar_Rovers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Rovers\\Digging_Rovers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Rovers\\Digging_Rovers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\ADT\\StackADT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D006D10-F995-4C63-BCFA-8DF26E3D5C16}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ADT\\StackADT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RDY_NM.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\RDY_NM.h",
+              "RelativeDocumentMoniker": "Project1\\RDY_NM.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\RDY_NM.h",
+              "RelativeToolTip": "Project1\\RDY_NM.h",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-31T16:59:21.551Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OUT_missions.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\OUT_missions.h",
+              "RelativeDocumentMoniker": "Project1\\OUT_missions.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\OUT_missions.h",
+              "RelativeToolTip": "Project1\\OUT_missions.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-31T17:49:13.897Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mars_Station.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Mars_Station.h",
+              "RelativeDocumentMoniker": "Project1\\Mars_Station.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Mars_Station.h",
+              "RelativeToolTip": "Project1\\Mars_Station.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T16:55:34.037Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-31T18:18:14.114Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "New_Request.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Request\\New_Request.h",
+              "RelativeDocumentMoniker": "Project1\\Request\\New_Request.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Request\\New_Request.h",
+              "RelativeToolTip": "Project1\\Request\\New_Request.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-31T18:15:38.969Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Request.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Request\\Request.h",
+              "RelativeDocumentMoniker": "Project1\\Request\\Request.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Request\\Request.h",
+              "RelativeToolTip": "Project1\\Request\\Request.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T13:16:28.925Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Abort_Request.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Request\\Abort_Request.h",
+              "RelativeDocumentMoniker": "Project1\\Request\\Abort_Request.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Request\\Abort_Request.h",
+              "RelativeToolTip": "Project1\\Request\\Abort_Request.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T15:14:39.119Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\DR. Ashraf\\Downloads\\CMPS103-Project\\CMPS103-Project\\main.cpp",
+              "ToolTip": "C:\\Users\\DR. Ashraf\\Downloads\\CMPS103-Project\\CMPS103-Project\\main.cpp",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAKsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-21T14:58:19.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LinkedQueue.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\ADT\\LinkedQueue.h",
+              "RelativeDocumentMoniker": "Project1\\ADT\\LinkedQueue.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\ADT\\LinkedQueue.h",
+              "RelativeToolTip": "Project1\\ADT\\LinkedQueue.h",
+              "ViewState": "AgIAAGEAAAAAAAAAAAArwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-12T05:29:09.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "input.txt",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\input.txt",
+              "RelativeDocumentMoniker": "Project1\\input.txt",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\input.txt",
+              "RelativeToolTip": "Project1\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-11T16:23:57.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "priQueue.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\ADT\\priQueue.h",
+              "RelativeDocumentMoniker": "Project1\\ADT\\priQueue.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\ADT\\priQueue.h",
+              "RelativeToolTip": "Project1\\ADT\\priQueue.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-10T15:51:17.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mission.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Mission\\Mission.h",
+              "RelativeDocumentMoniker": "Project1\\Mission\\Mission.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Mission\\Mission.h",
+              "RelativeToolTip": "Project1\\Mission\\Mission.h",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwFgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T21:00:02.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rover.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Rovers\\Rover.h",
+              "RelativeDocumentMoniker": "Project1\\Rovers\\Rover.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Rovers\\Rover.h",
+              "RelativeToolTip": "Project1\\Rovers\\Rover.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-08T18:42:07.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArrayStack.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\ADT\\ArrayStack.h",
+              "RelativeDocumentMoniker": "Project1\\ADT\\ArrayStack.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\ADT\\ArrayStack.h",
+              "RelativeToolTip": "Project1\\ADT\\ArrayStack.h",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-10T19:37:20.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "header.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\header.h",
+              "RelativeDocumentMoniker": "Project1\\header.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\header.h",
+              "RelativeToolTip": "Project1\\header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-05T17:11:22.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "polar_Rovers.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Rovers\\polar_Rovers.h",
+              "RelativeDocumentMoniker": "Project1\\Rovers\\polar_Rovers.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Rovers\\polar_Rovers.h",
+              "RelativeToolTip": "Project1\\Rovers\\polar_Rovers.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T15:04:58.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Digging_Rovers.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Rovers\\Digging_Rovers.h",
+              "RelativeDocumentMoniker": "Project1\\Rovers\\Digging_Rovers.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\Rovers\\Digging_Rovers.h",
+              "RelativeToolTip": "Project1\\Rovers\\Digging_Rovers.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T15:02:42.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StackADT.h",
+              "DocumentMoniker": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\ADT\\StackADT.h",
+              "RelativeDocumentMoniker": "Project1\\ADT\\StackADT.h",
+              "ToolTip": "K:\\College\\DATA STRUCTURE AND ALGORITHMS\\Solution2\\Project1\\ADT\\StackADT.h",
+              "RelativeToolTip": "Project1\\ADT\\StackADT.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T15:05:15.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
